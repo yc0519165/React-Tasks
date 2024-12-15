@@ -12,7 +12,7 @@ const Home = () => {
         >
           <div className="flex flex-col items-center justify-center gap-10">
             <img
-              src="/src/assets/react.svg"
+              src="src/assets/react.svg"
               alt=""
               className="logo react transition-[0.9s] h-32 w-32"
             />
